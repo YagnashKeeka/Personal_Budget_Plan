@@ -94,13 +94,13 @@ will be brought up through the application.
 *If during the process of the input, there is an incorrect value entered by the user, it
  would be caught and show that an error hasbeen committed.
 ----------------------------------------------------------------------------------------------------------
-* 6. BUGS
+* 5. BUGS
 There is a small bug at the end of the application. The whole application executes correcting. 
 One value is represented as NAN (this occurs when the values are displayed in decending order).
 But the calculations of all the expenses, income, vehicle and home loan executes correctly.
 That is the only bug present in the application.
 ----------------------------------------------------------------------------------------------------------
-* 7. CONTACT INFORMATION
+* 6. CONTACT INFORMATION
 My name is Yagnash Keeka and I am a student at Varsity College (Located in Sandton)
 Email: 20108984@vcconnect.co.za
 ----------------------------------------------------------------------------------------------------------
