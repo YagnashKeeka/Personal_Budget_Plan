@@ -22,7 +22,7 @@ This document contains the following categories:
 4. Compile The Program
 5. Bugs
 6. Contact Information
-
+7. Github link
 ----------------------------------------------------------------------------------------------------------
 * 1. GENERAL DESCRIPTION
 ----------------------------------------------------------------------------------------------------------
@@ -103,4 +103,7 @@ That is the only bug present in the application.
 * 6. CONTACT INFORMATION
 My name is Yagnash Keeka and I am a student at Varsity College (Located in Sandton)
 Email: 20108984@vcconnect.co.za
+----------------------------------------------------------------------------------------------------------
+* 7. GITHUB LINK
+https://github.com/YagnashKeeka/Personal_Budget_Plan.git
 ----------------------------------------------------------------------------------------------------------
